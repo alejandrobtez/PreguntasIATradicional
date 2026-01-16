@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>FAQ Primera Generación Pokémon</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f4f6fb;
+    }
+    .container {
+      max-width: 800px;
+      margin: 40px auto;
+      background: #ffffff;
+      padding: 24px;
+      border-radius: 8px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    }
+    h1 {
+      text-align: center;
+      color: #e3350d;
+    }
+    .input-row {
+      display: flex;
+      gap: 8px;
+      margin-top: 16px;
+    }
+    #questionInput {
+      flex: 1;
+      padding: 10px;
+      font-size: 16px;
+      border-radius: 4px;
+      border: 1px solid #ccc;
+    }
+    #askBtn {
+      padding: 10px 16px;
+      font-size: 16px;
+      border: none;
+      border-radius: 4px;
+      background: #ffcc00;
+      cursor: pointer;
+      transition: background 0.2s ease;
+    }
+    #askBtn:hover {
+      background: #ffdd33;
+    }
+    #answerBox {
+      margin-top: 24px;
+      padding: 16px;
+      border-radius: 4px;
+      border: 1px solid #e0e4f0;
+      background: #f9fafc;
+      opacity: 0;
+      transform: translateY(5px);
+      transition: opacity 0.3s ease, transform 0.3s ease;
+    }
+    #answerBox.show {
+      opacity: 1;
+      transform: translateY(0);
+    }
+    #answerBox.hidden {
+      display: none;
+    }
+    .examples {
+      margin-top: 24px;
+      font-size: 14px;
+    }
+    .examples ul {
+      padding-left: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Preguntas y respuestas Pokémon (1ª generación)</h1>
+
+    <div class="input-row">
+      <input
+        type="text"
+        id="questionInput"
+        placeholder="Escribe aquí tu pregunta sobre la primera generación de Pokémon"
+      >
+      <button id="askBtn">Preguntar</button>
+    </div>
+
+    <div id="answerBox" class="hidden">
+      <!-- Aquí se mostrará la respuesta -->
+    </div>
+
+    <div class="examples">
+      <p>Ejemplos de preguntas que puedes hacer:</p>
+      <ul>
+        <li>¿Cuántos Pokémon hay en la primera generación?</li>
+        <li>¿Quién es el líder del gimnasio de Ciudad Plateada?</li>
+        <li>¿Cuál es el número de la Pokédex de Pikachu?</li>
+        <li>¿Qué aves legendarias hay en Kanto?</li>
+      </ul>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

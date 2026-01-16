@@ -1,0 +1,162 @@
+[
+  {
+    "question": "¿Cuántos Pokémon hay en la primera generación?",
+    "answer": "En la primera generación hay 151 Pokémon en total."
+  },
+  {
+    "question": "¿Cuál es el primer Pokémon de la Pokédex?",
+    "answer": "El primer Pokémon de la Pokédex es Bulbasaur (#001)."
+  },
+  {
+    "question": "¿De qué tipo es Pikachu?",
+    "answer": "Pikachu es de tipo Eléctrico."
+  },
+  {
+    "question": "¿Quién es el profesor de Kanto?",
+    "answer": "El profesor de la región de Kanto es el Profesor Oak."
+  },
+  {
+    "question": "¿Cuáles son los Pokémon iniciales de Kanto?",
+    "answer": "Los Pokémon iniciales de Kanto son Bulbasaur, Charmander y Squirtle."
+  },
+  {
+    "question": "¿Qué tipo es Bulbasaur?",
+    "answer": "Bulbasaur es de tipo Planta/Veneno."
+  },
+  {
+    "question": "¿Qué tipo es Charmander?",
+    "answer": "Charmander es de tipo Fuego."
+  },
+  {
+    "question": "¿Qué tipo es Squirtle?",
+    "answer": "Squirtle es de tipo Agua."
+  },
+  {
+    "question": "¿Cuántos gimnasios hay en Kanto?",
+    "answer": "En Kanto hay 8 gimnasios."
+  },
+  {
+    "question": "¿Quién es el líder del primer gimnasio?",
+    "answer": "El líder del primer gimnasio (Ciudad Plateada) es Brock (tipo Roca)."
+  },
+  {
+    "question": "¿Quién es la líder del gimnasio de agua?",
+    "answer": "La líder del gimnasio de agua (Ciudad Celeste) es Misty."
+  },
+  {
+    "question": "¿Qué tipo usa Misty?",
+    "answer": "Misty usa Pokémon de tipo Agua."
+  },
+  {
+    "question": "¿Quién es el líder eléctrico?",
+    "answer": "El líder eléctrico de Ciudad Carmín es Lt. Surge."
+  },
+  {
+    "question": "¿Qué tipo usa Erika?",
+    "answer": "Erika usa Pokémon de tipo Planta."
+  },
+  {
+    "question": "¿Quién es la líder psíquica?",
+    "answer": "La líder psíquica de Ciudad Azafrán es Sabrina."
+  },
+  {
+    "question": "¿Qué tipo usa Blaine?",
+    "answer": "Blaine usa Pokémon de tipo Fuego."
+  },
+  {
+    "question": "¿Quién es el líder del último gimnasio?",
+    "answer": "El líder del último gimnasio es Blue (el rival)."
+  },
+  {
+    "question": "¿Qué organización criminal hay en Kanto?",
+    "answer": "En Kanto la organización criminal es el Equipo Rocket."
+  },
+  {
+    "question": "¿Quién es el jefe del Equipo Rocket?",
+    "answer": "El jefe del Equipo Rocket es Giovanni."
+  },
+  {
+    "question": "¿Qué tipo usa Giovanni?",
+    "answer": "Giovanni usa Pokémon de tipo Tierra."
+  },
+  {
+    "question": "¿Cuáles son las aves legendarias?",
+    "answer": "Las aves legendarias de Kanto son Articuno, Zapdos y Moltres."
+  },
+  {
+    "question": "¿Qué Pokémon es el #150?",
+    "answer": "El Pokémon #150 es Mewtwo."
+  },
+  {
+    "question": "¿Qué Pokémon es el #151?",
+    "answer": "El Pokémon #151 es Mew."
+  },
+  {
+    "question": "¿Qué evolución tiene Magikarp?",
+    "answer": "Magikarp evoluciona a Gyarados en nivel 20."
+  },
+  {
+    "question": "¿Qué Pokémon bloquea caminos?",
+    "answer": "Snorlax bloquea caminos y se despierta con la Poké Flauta."
+  },
+  {
+    "question": "¿Qué Pokémon canta?",
+    "answer": "Jigglypuff es conocido por cantar y dormir a sus oponentes."
+  },
+  {
+    "question": "¿Qué Pokémon se transforma?",
+    "answer": "Ditto puede transformarse en cualquier Pokémon."
+  },
+  {
+    "question": "¿Qué ciudad tiene la Torre Pokémon?",
+    "answer": "Pueblo Lavanda tiene la Torre Pokémon con fantasmas."
+  },
+  {
+    "question": "¿Qué barco hay en Ciudad Carmín?",
+    "answer": "En Ciudad Carmín está el barco S.S. Anne."
+  },
+  {
+    "question": "¿Qué tipo es Charizard?",
+    "answer": "Charizard es de tipo Fuego/Volador."
+  },
+  {
+    "question": "¿Qué número tiene Pikachu?",
+    "answer": "Pikachu es el Pokémon #25 de la Pokédex."
+  },
+  {
+    "question": "¿Qué es la Pokédex?",
+    "answer": "La Pokédex es el dispositivo que registra Pokémon vistos y capturados."
+  },
+  {
+    "question": "¿Cuántas medallas se necesitan?",
+    "answer": "Se necesitan 8 medallas para entrar a la Liga Pokémon."
+  },
+  {
+    "question": "¿Qué tipo es el más común?",
+    "answer": "El tipo Agua es uno de los más comunes en la primera generación."
+  },
+  {
+    "question": "¿Qué Pokémon es mascota oficial?",
+    "answer": "Pikachu es la mascota oficial de Pokémon."
+  },
+  {
+    "question": "¿Cómo se llama el protagonista?",
+    "answer": "El protagonista de los juegos se llama Red."
+  },
+  {
+    "question": "¿Cómo se llama el rival?",
+    "answer": "El rival principal se llama Blue (Gary en el anime)."
+  },
+  {
+    "question": "¿Qué juegos son 1ª generación?",
+    "answer": "Pokémon Rojo, Azul, Verde (Japón) y Amarillo."
+  },
+  {
+    "question": "¿Qué hace Ditto?",
+    "answer": "Ditto puede copiar la forma de cualquier Pokémon."
+  },
+  {
+    "question": "¿Qué tipo es Gyarados?",
+    "answer": "Gyarados es de tipo Agua/Volador en 1ª generación."
+  }
+]
