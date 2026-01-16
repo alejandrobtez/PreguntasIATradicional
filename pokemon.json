@@ -1,23 +1,35 @@
 [
   {
     "question": "¿Cuántos Pokémon hay en la primera generación?",
-    "answer": "En la primera generación hay 151 Pokémon en total."
+    "answer": "En la primera generación hay 151 Pokémon en total, desde Bulbasaur (#001) hasta Mew (#151)."
   },
   {
     "question": "¿Cuál es el primer Pokémon de la Pokédex?",
-    "answer": "El primer Pokémon de la Pokédex es Bulbasaur (#001)."
+    "answer": "El primer Pokémon de la Pokédex nacional es Bulbasaur, número #001."
+  },
+  {
+    "question": "¿Cuál es el último Pokémon de la primera generación?",
+    "answer": "El último Pokémon de la primera generación es Mew, número #151."
+  },
+  {
+    "question": "¿Cuántos Pokémon incluye la Pokédex de Kanto?",
+    "answer": "La Pokédex de Kanto incluye exactamente 151 Pokémon."
   },
   {
     "question": "¿De qué tipo es Pikachu?",
-    "answer": "Pikachu es de tipo Eléctrico."
+    "answer": "Pikachu es un Pokémon de tipo Eléctrico puro."
   },
   {
-    "question": "¿Quién es el profesor de Kanto?",
-    "answer": "El profesor de la región de Kanto es el Profesor Oak."
+    "question": "¿Qué número tiene Pikachu en la Pokédex?",
+    "answer": "Pikachu ocupa el número #025 en la Pokédex nacional."
+  },
+  {
+    "question": "¿Quién es la mascota oficial de Pokémon?",
+    "answer": "Pikachu es la mascota oficial de la franquicia Pokémon."
   },
   {
     "question": "¿Cuáles son los Pokémon iniciales de Kanto?",
-    "answer": "Los Pokémon iniciales de Kanto son Bulbasaur, Charmander y Squirtle."
+    "answer": "Los Pokémon iniciales de la región de Kanto son Bulbasaur, Charmander y Squirtle."
   },
   {
     "question": "¿Qué tipo es Bulbasaur?",
@@ -25,138 +37,286 @@
   },
   {
     "question": "¿Qué tipo es Charmander?",
-    "answer": "Charmander es de tipo Fuego."
+    "answer": "Charmander es de tipo Fuego puro."
   },
   {
     "question": "¿Qué tipo es Squirtle?",
-    "answer": "Squirtle es de tipo Agua."
+    "answer": "Squirtle es de tipo Agua puro."
   },
   {
-    "question": "¿Cuántos gimnasios hay en Kanto?",
-    "answer": "En Kanto hay 8 gimnasios."
+    "question": "¿Qué tipo es Ivysaur?",
+    "answer": "Ivysaur, la evolución de Bulbasaur, es de tipo Planta/Veneno."
   },
   {
-    "question": "¿Quién es el líder del primer gimnasio?",
-    "answer": "El líder del primer gimnasio (Ciudad Plateada) es Brock (tipo Roca)."
+    "question": "¿Qué tipo es Charmeleon?",
+    "answer": "Charmeleon, evolución de Charmander, es de tipo Fuego."
   },
   {
-    "question": "¿Quién es la líder del gimnasio de agua?",
-    "answer": "La líder del gimnasio de agua (Ciudad Celeste) es Misty."
+    "question": "¿Qué tipo es Wartortle?",
+    "answer": "Wartortle, evolución de Squirtle, es de tipo Agua."
   },
   {
-    "question": "¿Qué tipo usa Misty?",
-    "answer": "Misty usa Pokémon de tipo Agua."
-  },
-  {
-    "question": "¿Quién es el líder eléctrico?",
-    "answer": "El líder eléctrico de Ciudad Carmín es Lt. Surge."
-  },
-  {
-    "question": "¿Qué tipo usa Erika?",
-    "answer": "Erika usa Pokémon de tipo Planta."
-  },
-  {
-    "question": "¿Quién es la líder psíquica?",
-    "answer": "La líder psíquica de Ciudad Azafrán es Sabrina."
-  },
-  {
-    "question": "¿Qué tipo usa Blaine?",
-    "answer": "Blaine usa Pokémon de tipo Fuego."
-  },
-  {
-    "question": "¿Quién es el líder del último gimnasio?",
-    "answer": "El líder del último gimnasio es Blue (el rival)."
-  },
-  {
-    "question": "¿Qué organización criminal hay en Kanto?",
-    "answer": "En Kanto la organización criminal es el Equipo Rocket."
-  },
-  {
-    "question": "¿Quién es el jefe del Equipo Rocket?",
-    "answer": "El jefe del Equipo Rocket es Giovanni."
-  },
-  {
-    "question": "¿Qué tipo usa Giovanni?",
-    "answer": "Giovanni usa Pokémon de tipo Tierra."
-  },
-  {
-    "question": "¿Cuáles son las aves legendarias?",
-    "answer": "Las aves legendarias de Kanto son Articuno, Zapdos y Moltres."
-  },
-  {
-    "question": "¿Qué Pokémon es el #150?",
-    "answer": "El Pokémon #150 es Mewtwo."
-  },
-  {
-    "question": "¿Qué Pokémon es el #151?",
-    "answer": "El Pokémon #151 es Mew."
-  },
-  {
-    "question": "¿Qué evolución tiene Magikarp?",
-    "answer": "Magikarp evoluciona a Gyarados en nivel 20."
-  },
-  {
-    "question": "¿Qué Pokémon bloquea caminos?",
-    "answer": "Snorlax bloquea caminos y se despierta con la Poké Flauta."
-  },
-  {
-    "question": "¿Qué Pokémon canta?",
-    "answer": "Jigglypuff es conocido por cantar y dormir a sus oponentes."
-  },
-  {
-    "question": "¿Qué Pokémon se transforma?",
-    "answer": "Ditto puede transformarse en cualquier Pokémon."
-  },
-  {
-    "question": "¿Qué ciudad tiene la Torre Pokémon?",
-    "answer": "Pueblo Lavanda tiene la Torre Pokémon con fantasmas."
-  },
-  {
-    "question": "¿Qué barco hay en Ciudad Carmín?",
-    "answer": "En Ciudad Carmín está el barco S.S. Anne."
+    "question": "¿Qué tipo es Venusaur?",
+    "answer": "Venusaur, evolución final de Bulbasaur, es Planta/Veneno."
   },
   {
     "question": "¿Qué tipo es Charizard?",
     "answer": "Charizard es de tipo Fuego/Volador."
   },
   {
-    "question": "¿Qué número tiene Pikachu?",
-    "answer": "Pikachu es el Pokémon #25 de la Pokédex."
+    "question": "¿Qué tipo es Blastoise?",
+    "answer": "Blastoise, evolución final de Squirtle, es de tipo Agua puro."
   },
   {
-    "question": "¿Qué es la Pokédex?",
-    "answer": "La Pokédex es el dispositivo que registra Pokémon vistos y capturados."
+    "question": "¿Quién es el profesor de Kanto?",
+    "answer": "El profesor Pokémon de la región de Kanto es el Profesor Oak."
   },
   {
-    "question": "¿Cuántas medallas se necesitan?",
-    "answer": "Se necesitan 8 medallas para entrar a la Liga Pokémon."
+    "question": "¿Cuántos gimnasios hay en Kanto?",
+    "answer": "En la región de Kanto hay exactamente 8 gimnasios oficiales."
   },
   {
-    "question": "¿Qué tipo es el más común?",
-    "answer": "El tipo Agua es uno de los más comunes en la primera generación."
+    "question": "¿Cuántas medallas se necesitan para la Liga Pokémon?",
+    "answer": "Se necesitan las 8 medallas de gimnasio para desafiar la Liga Pokémon."
   },
   {
-    "question": "¿Qué Pokémon es mascota oficial?",
-    "answer": "Pikachu es la mascota oficial de Pokémon."
+    "question": "¿Quién es el líder del primer gimnasio?",
+    "answer": "El líder del primer gimnasio de Ciudad Plateada es Brock, especialista en tipo Roca."
   },
   {
-    "question": "¿Cómo se llama el protagonista?",
-    "answer": "El protagonista de los juegos se llama Red."
+    "question": "¿Qué tipo usa Brock?",
+    "answer": "Brock usa Pokémon de tipo Roca como Geodude, Onix y Graveler."
   },
   {
-    "question": "¿Cómo se llama el rival?",
-    "answer": "El rival principal se llama Blue (Gary en el anime)."
+    "question": "¿De qué ciudad es Brock?",
+    "answer": "Brock es el líder del gimnasio de Ciudad Plateada (Pewter City)."
   },
   {
-    "question": "¿Qué juegos son 1ª generación?",
-    "answer": "Pokémon Rojo, Azul, Verde (Japón) y Amarillo."
+    "question": "¿Quién es la líder del segundo gimnasio?",
+    "answer": "La líder del segundo gimnasio de Ciudad Celeste es Misty, especialista en tipo Agua."
   },
   {
-    "question": "¿Qué hace Ditto?",
-    "answer": "Ditto puede copiar la forma de cualquier Pokémon."
+    "question": "¿Qué tipo usa Misty?",
+    "answer": "Misty usa Pokémon de tipo Agua como Staryu, Starmie y Goldeen."
+  },
+  {
+    "question": "¿Quién es el líder eléctrico?",
+    "answer": "Lt. Surge es el líder del gimnasio eléctrico de Ciudad Carmín."
+  },
+  {
+    "question": "¿Qué Pokémon usa Lt. Surge?",
+    "answer": "Lt. Surge usa principalmente Pokémon Eléctricos como Voltorb, Pikachu y Raichu."
+  },
+  {
+    "question": "¿Quién es la líder de tipo Planta?",
+    "answer": "Erika es la líder del gimnasio de tipo Planta de Ciudad Azulona."
+  },
+  {
+    "question": "¿Qué Pokémon usa Erika?",
+    "answer": "Erika usa Pokémon Planta como Victreebel, Tangela y Vileplume."
+  },
+  {
+    "question": "¿Quién es la líder psíquica?",
+    "answer": "Sabrina es la líder del gimnasio psíquico de Ciudad Azafrán."
+  },
+  {
+    "question": "¿Qué Pokémon usa Sabrina?",
+    "answer": "Sabrina usa Pokémon Psíquicos como Kadabra, Mr. Mime y Alakazam."
+  },
+  {
+    "question": "¿Quién es el líder de tipo Fuego?",
+    "answer": "Blaine es el líder del gimnasio de Fuego en Isla Canela."
+  },
+  {
+    "question": "¿Qué Pokémon usa Blaine?",
+    "answer": "Blaine usa Pokémon de Fuego como Growlithe, Ponyta, Rapidash y Arcanine."
+  },
+  {
+    "question": "¿Quién es el líder venenoso?",
+    "answer": "Koga es el líder del gimnasio de tipo Veneno en Ciudad Fucsia."
+  },
+  {
+    "question": "¿Qué Pokémon usa Koga?",
+    "answer": "Koga usa Pokémon Veneno como Koffing, Weezing, Muk y Venomoth."
+  },
+  {
+    "question": "¿Quién es el líder del octavo gimnasio?",
+    "answer": "Blue (el rival) es el líder del último gimnasio en Ciudad Verde."
+  },
+  {
+    "question": "¿Qué organización criminal hay en Kanto?",
+    "answer": "El Equipo Rocket es la organización criminal principal de la región de Kanto."
+  },
+  {
+    "question": "¿Quién es el jefe del Equipo Rocket?",
+    "answer": "Giovanni es el líder y jefe del Equipo Rocket."
+  },
+  {
+    "question": "¿Qué tipo usa Giovanni?",
+    "answer": "Giovanni usa Pokémon de tipo Tierra/Roca como Rhyhorn, Dugtrio y Rhydon."
+  },
+  {
+    "question": "¿Cuáles son las aves legendarias de Kanto?",
+    "answer": "Las tres aves legendarias de Kanto son Articuno (Hielo/Volador), Zapdos (Eléctrico/Volador) y Moltres (Fuego/Volador)."
+  },
+  {
+    "question": "¿Qué es Articuno?",
+    "answer": "Articuno es un Pokémon legendario de tipo Hielo/Volador que se encuentra en las Islas Espuma."
+  },
+  {
+    "question": "¿Qué es Zapdos?",
+    "answer": "Zapdos es un Pokémon legendario de tipo Eléctrico/Volador que se encuentra en la Central Energía."
+  },
+  {
+    "question": "¿Qué es Moltres?",
+    "answer": "Moltres es un Pokémon legendario de tipo Fuego/Volador que se encuentra en la Mansión Pokémon."
+  },
+  {
+    "question": "¿Qué Pokémon es el #150?",
+    "answer": "Mewtwo es el Pokémon número 150 de la Pokédex nacional."
+  },
+  {
+    "question": "¿Qué es Mewtwo?",
+    "answer": "Mewtwo es un Pokémon legendario Psíquico creado artificialmente como clon de Mew."
+  },
+  {
+    "question": "¿Qué es Mew?",
+    "answer": "Mew es el Pokémon mítico número 151, ancestro genético de todos los Pokémon."
+  },
+  {
+    "question": "¿Qué evolución tiene Magikarp?",
+    "answer": "Magikarp evoluciona a Gyarados al alcanzar el nivel 20."
   },
   {
     "question": "¿Qué tipo es Gyarados?",
-    "answer": "Gyarados es de tipo Agua/Volador en 1ª generación."
+    "answer": "En la primera generación, Gyarados es de tipo Agua/Volador."
+  },
+  {
+    "question": "¿Qué Pokémon bloquea caminos?",
+    "answer": "Snorlax es el Pokémon que bloquea caminos y solo se despierta con la Poké Flauta."
+  },
+  {
+    "question": "¿Qué hace Jigglypuff?",
+    "answer": "Jigglypuff canta una canción que duerme a sus oponentes y luego dibuja en sus caras."
+  },
+  {
+    "question": "¿Qué hace Ditto?",
+    "answer": "Ditto puede transformarse en cualquier Pokémon copiando su apariencia y movimientos."
+  },
+  {
+    "question": "¿Qué ciudad tiene la Torre Pokémon?",
+    "answer": "Pueblo Lavanda tiene la famosa Torre Pokémon habitada por fantasmas."
+  },
+  {
+    "question": "¿Qué Pokémon fantasma hay en Pueblo Lavanda?",
+    "answer": "En la Torre Pokémon aparecen Gastly, Haunter y Gengar, además del espíritu de Marowak."
+  },
+  {
+    "question": "¿Qué barco hay en Ciudad Carmín?",
+    "answer": "El lujoso barco S.S. Anne está atracado en el puerto de Ciudad Carmín."
+  },
+  {
+    "question": "¿Qué es MissingNo?",
+    "answer": "MissingNo. es un famoso glitch Pokémon que aparece explotando un error en Isla Canela."
+  },
+  {
+    "question": "¿Cómo se llama el protagonista?",
+    "answer": "El protagonista de los juegos de primera generación se llama Red."
+  },
+  {
+    "question": "¿Cómo se llama el rival?",
+    "answer": "El rival principal se llama Blue (Gary Oak en el anime)."
+  },
+  {
+    "question": "¿Qué juegos son primera generación?",
+    "answer": "Los juegos de primera generación son Pokémon Rojo, Azul, Verde (Japón) y Amarillo."
+  },
+  {
+    "question": "¿Qué es la Pokédex?",
+    "answer": "La Pokédex es la enciclopedia electrónica que registra datos de Pokémon vistos y capturados."
+  },
+  {
+    "question": "¿Qué objeto atrapa Pokémon?",
+    "answer": "Las Poké Balls son los objetos principales para capturar Pokémon silvestres."
+  },
+  {
+    "question": "¿Qué hace un Centro Pokémon?",
+    "answer": "Los Centros Pokémon curan gratis todos los Pokémon del jugador a máxima salud."
+  },
+  {
+    "question": "¿Qué tipo es el más común?",
+    "answer": "El tipo Agua es el más común en la primera generación de Pokémon."
+  },
+  {
+    "question": "¿Qué Pokémon es tipo Normal/Fantasma?",
+    "answer": "Gengar es uno de los pocos Pokémon de tipo Normal/Fantasma en la primera generación."
+  },
+  {
+    "question": "¿Qué Pokémon no puede aprender HM?",
+    "answer": "Algunos Pokémon débiles como Magikarp no pueden aprender movimientos HM."
+  },
+  {
+    "question": "¿Qué ciudad tiene casino?",
+    "answer": "Ciudad Azulona tiene un casino famoso y la base secreta del Equipo Rocket debajo."
+  },
+  {
+    "question": "¿Qué es la Liga Pokémon?",
+    "answer": "La Liga Pokémon es el torneo final donde se enfrentan los 4 mejores entrenadores de la región."
+  },
+  {
+    "question": "¿Quiénes son los 4 Maestros Pokémon?",
+    "answer": "Los 4 Maestros Pokémon son Lorelei (Hielo), Bruno (Lucha), Agatha (Fantasma) y Lance (Dragón)."
+  },
+  {
+    "question": "¿Quién es el Campeón de la Liga?",
+    "answer": "El Campeón de la Liga Pokémon de Kanto es el Profesor Oak en Rojo/Azul, o Blue en Amarillo."
+  },
+  {
+    "question": "¿Qué tipo es Dragonite?",
+    "answer": "Dragonite es de tipo Dragón/Volador y es la evolución final de Dratini."
+  },
+  {
+    "question": "¿Qué hace un HM?",
+    "answer": "Los HM (Hidden Machines) enseñan movimientos útiles fuera de combate como Cortar o Fuerza."
+  },
+  {
+    "question": "¿Cuántos HM hay?",
+    "answer": "En la primera generación hay 5 HM: Cortar, Volar, Surf, Fuerza y Destello."
+  },
+  {
+    "question": "¿Qué Pokémon aprende Surf?",
+    "answer": Muchos Pokémon de tipo Agua como Lapras, Blastoise, Vaporeon y Gyarados aprenden Surf."
+  },
+  {
+    "question": "¿Qué es la Isla Canela?",
+    "answer": "Isla Canela es una pequeña isla al sur con el gimnasio de Blaine y la playa del glitch."
+  },
+  {
+    "question": "¿Qué es Ciudad Verde?",
+    "answer": "Ciudad Verde alberga la Liga Pokémon y al final del juego, el gimnasio de Blue."
+  },
+  {
+    "question": "¿Qué Pokémon es evolución de Eevee con Piedra Agua?",
+    "answer": "Eevee evoluciona a Vaporeon usando una Piedra Agua."
+  },
+  {
+    "question": "¿Qué Pokémon es evolución de Eevee con Piedra Trueno?",
+    "answer": "Eevee evoluciona a Jolteon usando una Piedra Trueno."
+  },
+  {
+    "question": "¿Qué Pokémon es evolución de Eevee con Piedra Fuego?",
+    "answer": "Eevee evoluciona a Flareon usando una Piedra Fuego."
+  },
+  {
+    "question": "¿Qué es el S.S. Anne?",
+    "answer": "El S.S. Anne es un lujoso barco crucero en Ciudad Carmín donde Bill crea la Poké Ball."
+  },
+  {
+    "question": "¿Quién inventó la Poké Ball?",
+    "answer": "Bill es el inventor de la Poké Ball moderna en el mundo Pokémon."
+  },
+  {
+    "question": "¿Qué es Pueblo Paleta?",
+    "answer": "Pueblo Paleta es el pueblo natal de Red, Blue y el Profesor Oak."
   }
 ]
